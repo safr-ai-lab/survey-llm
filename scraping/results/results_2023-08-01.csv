@@ -1,0 +1,54 @@
+,title,authors,category,relevance
+26, mathattack: attacking large language models towards math solving ability ,zihao zhou,attacks,22
+70,model tuning or prompt tuning? a study of large language models for clinical concept and relation extraction,cheng peng,attacks,19
+4, quantifying and analyzing entity-level memorization in large language models,zhenhong zhou,memorization,19
+92,privacy preserving large language models: chatgpt case study based vision and framework ,imdad ullah,private,18
+10, autodan: automatic and interpretable adversarial attacks on large language models,sicheng zhu,attacks,17
+13,attack prompt generation for red teaming and defending large language models,boyi deng,attacks,16
+29, a comprehensive overview of backdoor attacks in large language models within communication networks ,haomiao yang,attacks,15
+16," privacy in large language models: attacks, defenses and future directions ",haoran li,attacks,14
+58, llmcad: fast and scalable on-device large language model inference,daliang xu,attacks,14
+24, backdoor attacks and countermeasures in natural language processing models: a comprehensive security review ,pengzhou cheng,attacks,14
+22, smoothllm: defending large language models against jailbreaking attacks,alexander robey,attacks,14
+0, sok: memorization in general-purpose large language models,valentin hartmann,memorization,14
+106,copyright violations and large language models,antonia karamolegkou,copyright,14
+21, loft: local proxy fine-tuning for improving transferability of adversarial attacks against large language model,muhammad ahmed shah,attacks,13
+77, lmdx: language model-based document information extraction and localization ,vincent perot,attacks,13
+35, did the neurons read your book? document-level membership inference for large language models,matthieu meeus,attacks,13
+2, exploring memorization in fine-tuned language models,shenglai zeng,memorization,12
+9, fltrojan: privacy leakage attacks against federated language models through selective weight tampering ,md rafi ur rashid,attacks,12
+15, survey of vulnerabilities in large language models revealed by adversarial attacks,erfan shayegani,attacks,12
+104, large language model unlearning,yuanshun yao,unlearning,12
+12, automatic hallucination assessment for aligned large language models via transferable adversarial attacks,xiaodong yu,attacks,11
+18, composite backdoor attacks against large language models,hai huang,attacks,11
+105, in-context unlearning: language models as few shot unlearners,martin pawelczyk,unlearning,11
+5, what do code models memorize? an empirical study on large language models of code ,zhou yang,memorization,11
+81,extracting mathematical concepts with large language models,valeria de paiva,attacks,10
+31, mondrian: prompt abstraction attack against large language models for cheaper api pricing ,wai man si,attacks,10
+65, product attribute value extraction using large language models,alexander brinkmann,attacks,10
+8, large language models are better adversaries: exploring generative clean-label backdoor attacks against text classifiers ,wencong you,attacks,10
+78, llm4jobs: unsupervised occupation extraction and standardization leveraging large language models,nan li,attacks,9
+71, geollm: extracting geospatial knowledge from large language models,rohin manvi,attacks,9
+107, how to protect copyright data in optimization of large language models? ,timothy chu,copyright,9
+28, why do universal adversarial attacks work on large language models?: geometry might be the answer ,varshini subhash,attacks,9
+40, split-and-denoise: protect large language model inference with local differential privacy ,peihua mai,attacks,9
+14, poisonprompt: backdoor attack on prompt-based large language models,hongwei yao,attacks,9
+20, vlattack: multimodal adversarial attacks on vision-language tasks via pre-trained models,ziyi yin,attacks,9
+97, large language models can be good privacy protection learners ,yijia xiao,private,8
+27, baseline defenses for adversarial attacks against aligned language models,neel jain,attacks,8
+89, the janus interface: how fine-tuning in large language models amplifies the privacy risks ,xiaoyi chen,private,8
+49, from words to watts: benchmarking the energy costs of large language model inference,siddharth samsi,attacks,8
+72, benchmarking large language models with augmented instructions for fine-grained information extraction,jun gao,attacks,8
+75, ae-gpt: using large language models to extract adverse events from surveillance reports-a use case with influenza vaccine adverse events ,yiming li,attacks,7
+79, improving open information extraction with large language models: a study on demonstration uncertainty ,chen ling,attacks,7
+94,"privacy in large language models: attacks, defenses and future directions ",haoran li,private,7
+59, edgemoe: fast on-device inference of moe-based large language models,rongjie yi,attacks,7
+98, can large language models provide security &amp; privacy advice? measuring the ability of llms to refute misconceptions ,yufan chen,private,7
+69, mastering the task of open information extraction with large language models and consistent reasoning environment ,ji qi,attacks,7
+63, can large language models replace humans in the systematic review process? evaluating gpt-4's efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages,qusai khraisha,attacks,7
+46, llmlingua: compressing prompts for accelerated inference of large language models,huiqiang jiang,attacks,6
+67, in-context few-shot relation extraction via pre-trained language models,yilmazcan ozyurt,attacks,6
+86, depn: detecting and editing privacy neurons in pretrained language models,xinwei wu,private,6
+74,extraction of medication and temporal relation from clinical text using neural language models,hangyu tu,attacks,6
+61, exploring zero-shot capability of large language models in inferences from medical oncology notes ,madhumita sushil,attacks,6
+11, mope: model perturbation-based privacy attacks on language models,marvin li,attacks,6
