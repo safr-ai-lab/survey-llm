@@ -8,7 +8,7 @@ def clean_soup(string):
     string = re.sub(' +', ' ',string)
     return string
 
-from_date = '2023-08-01'
+from_date = '2023-06-01'
 
 results_df = pd.DataFrame()
 
@@ -50,4 +50,4 @@ for category in keywords:
 
 results_df = results_df[results_df.relevance > 4]
 results_df = results_df.sort_values('relevance', ascending=False).drop_duplicates(subset='title', keep='first')
-results_df.sort_values('relevance', ascending=False).to_csv(f'results/results_{from_date}.csv')
+results_df.sort_values('relevance', ascending=False).to_csv(f'results/results_{from_date}.csv',index=False)
