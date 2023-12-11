@@ -34,6 +34,7 @@ Image from [Carlini 2020](https://arxiv.org/abs/2012.07805)
 
 | **Paper Title**                                                                                                                                                                                                                             | **Year** | **Author**        | **Code** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|-------------------| :----: |
+| [Scalable Extraction of Training Data from Production Language Models](https://arxiv.org/abs/2311.17035)                                                                                                                                          |   2023   | Nasr et al.   |  |
 | [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/abs/2304.11158)                                                                                                                                          |   2023   | Biderman et al.   | [[Code]](https://github.com/EleutherAI/pythia) |
 | [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://arxiv.org/abs/1802.08232)                                                                                                                    |   2019   | Carlini et al.    |  |
 | [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)                                                                                                                                                  |   2023   | Carlini et al.    |  |
@@ -63,6 +64,7 @@ Image from [Tindall](https://gab41.lab41.org/membership-inference-attacks-on-neu
 
 | **Paper Title**                                                                                                                                                        | **Year** | **Author**              |     **Code** |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|-------------------------|:----------------------------------------------------------------------------------:|
+| [Detecting Pretraining Data from Large Language Models](https://arxiv.org/abs/2310.16789)                                                         |   2023   | Shi et al.          |   |
 | [TMI! Finetuned Models Leak Private Information from their Pretraining Data](https://arxiv.org/abs/2306.01181)                                                         |   2023   | Abascal et al.          |   |
 | [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)                                                                                |   2020   | Carlini et al.          |     [[Code]](https://github.com/ftramer/LM_Memorization) |
 | [Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570)                                                                                 |   2022   | Carlini et al.          |    [[Code]](https://github.com/tensorflow/privacy/tree/master/research/mi_lira_2021) |
@@ -138,6 +140,7 @@ Image from [Felps 2020](https://www.researchgate.net/publication/346879997_Class
 | [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)                                       |   2022   | Nguyen et al.   |  |
 | [In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)        |   2023   | Pawelczyk et al. |  |
 | [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)                                      |   2023   | Yao et al.      | [[Code]](https://github.com/kevinyaobytedance/llm_unlearn) |
+| [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/abs/2310.20150)                                      |   2023   | Chen et al. |  |
 
 <!--- 
 | [If Influence Functions are the Answer, Then What is the Question?](https://arxiv.org/abs/2209.05364)   |   2022   | Bae et al.    |  |
