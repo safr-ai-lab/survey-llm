@@ -19,6 +19,8 @@ If you have a paper relevant to LLM privacy, [please nominate them for inclusion
   - [Private LLMs](#private-llms)
   - [Unlearning](#unlearning)
   - [Copyright](#copyright)
+- [Additional Relevant Surveys](#additional-relevant-surveys)
+- [Contact Info](#contact-info)
 
 
 ## Citation
@@ -173,6 +175,15 @@ Custom Image
 <!--- 
 
 --->
+
+# Additional Relevant Surveys
+
+| **Paper Title**                                                                                      | **Year** | **Author**    |   **Code**    |
+|------------------------------------------------------------------------------------------------------|:--------:|---------------|:-------------:|
+| [Membership Inference Attacks on Machine Learning: A Survey](https://dl.acm.org/doi/10.1145/3523273) |   2022   | Hu et al.     |  |
+| [When Machine Learning Meets Privacy: A Survey and Outlook](https://dl.acm.org/doi/10.1145/3436755)  |   2021   | Liu et al.    |  |
+| [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)                                   |   2022   | Nguyen et al. |  |
+| [***A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)                             |   2023   | Zhao et al.   |  |
 
 
 # Contact Info
