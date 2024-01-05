@@ -10,6 +10,7 @@ marked with asterisks.**
 If you have a paper relevant to LLM privacy, [please nominate them for inclusion](https://forms.gle/jCZgXaEfb8R4CnDb7) 
 
 *Repo last updated 1/5/2024*
+
 *Paper last updated 11/02/2023*
 
 ## Table of Contents
@@ -128,6 +129,7 @@ Image from [Google AI Blog](https://blog.research.google/2017/04/federated-learn
 | [Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation](https://arxiv.org/abs/2309.11765v1)                                                          |   2023   | Tang et al.              | [[Code]](https://github.com/microsoft/dp-few-shot-generation) |
 | [Understanding Unintended Memorization in Federated Learning](https://arxiv.org/abs/2006.07490)                                                                                       |   2020   | Thakkar et al.           |  |
 | [Provably Confidential Language Modelling](https://arxiv.org/abs/2205.01863)                                                                                                          |   2022   | Zhao et al.              | [[Code]](https://github.com/XuandongZhao/CRT) |
+| [***Differentially Private Fine-tuning of Language Models](https://arxiv.org/abs/2110.06500)                                                                                          |   2022   | Yu et al.                | [[Code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models) |
 | [***Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://paperswithcode.com/paper/can-llms-keep-a-secret-testing-privacy) |   2023   | Mireshghallah et al.     | [[Code]](https://confaide.github.io/) |
 
 <!--- 
@@ -178,7 +180,7 @@ Custom Image
 
 --->
 
-# Additional Relevant Surveys
+# Additional Related Surveys
 
 | **Paper Title**                                                                                      | **Year** | **Author**    |   **Code**    |
 |------------------------------------------------------------------------------------------------------|:--------:|---------------|:-------------:|
