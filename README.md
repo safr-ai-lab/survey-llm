@@ -9,7 +9,7 @@ marked with asterisks.**
 
 If you have a paper relevant to LLM privacy, [please nominate them for inclusion](https://forms.gle/jCZgXaEfb8R4CnDb7) 
 
-*Repo last updated 1/5/2024*
+*Repo last updated 1/9/2024*
 
 *Paper last updated 11/02/2023*
 
@@ -45,7 +45,7 @@ Image from [Carlini 2020](https://arxiv.org/abs/2012.07805)
 
 | **Paper Title**                                                                                                                                                                                                                             | **Year** | **Author**        | **Code** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|-------------------| :----: |
-| [Scalable Extraction of Training Data from Production Language Models](https://arxiv.org/abs/2311.17035)                                                                                                                                          |   2023   | Nasr et al.   |  |
+| [Scalable Extraction of Training Data from Production Language Models](https://arxiv.org/abs/2311.17035)                                                                                                                                    |   2023   | Nasr et al.       |  |
 | [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/abs/2304.11158)                                                                                                                                          |   2023   | Biderman et al.   | [[Code]](https://github.com/EleutherAI/pythia) |
 | [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://arxiv.org/abs/1802.08232)                                                                                                                    |   2019   | Carlini et al.    |  |
 | [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)                                                                                                                                                  |   2023   | Carlini et al.    |  |
@@ -63,6 +63,8 @@ Image from [Carlini 2020](https://arxiv.org/abs/2012.07805)
 | [Counterfactual Memorization in Neural Language Models](https://arxiv.org/abs/2112.12938)                                                                                                                                                   |   2021   | Zhang et al.      |  |
 | [Provably Confidential Language Modelling](https://arxiv.org/abs/2205.01863)                                                                                                                                                                |   2022   | Zhao et al.       | [[Code]](https://github.com/XuandongZhao/CRT) |
 | [Quantifying and Analyzing Entity-level Memorization in Large Language Models](https://paperswithcode.com/paper/quantifying-and-analyzing-entity-level)                                                                                     |   2023   | Zhou et al.       |  |
+| [***Do Localization Methods Actually Localize Memorized Data in LLMs?](https://arxiv.org/abs/2311.09060)                                                                                                                                    |   2023   | Chang et al.      |         |
+
 
 <!--- 
 | [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530) |   2017   | Zhang et al. |  |
@@ -96,7 +98,11 @@ Image from [Tindall](https://gab41.lab41.org/membership-inference-attacks-on-neu
 | [Bag of Tricks for Training Data Extraction from Language Models](https://arxiv.org/abs/2302.04460)                                                       |   2023   | Yu et al.               |               [[Code]](https://github.com/weichen-yu/LM-Extraction)               |
 | [Analyzing Information Leakage of Updates to Natural Language Models](https://arxiv.org/abs/1912.07942)                                                   |   2020   | Zanella-Béguelin et al. |                                                                                   |
 | [Ethicist: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation](https://arxiv.org/abs/2307.04401) |   2023   | Zhang et al.            |          [[Code]](https://github.com/thu-coai/Targeted-Data-Extraction)           |
-| [***Detecting Pretraining Data from Large Language Models](https://arxiv.org/abs/2310.16789)                                                              |   2023   | Shi et al.              |                  [[Code]](https://swj0419.github.io/detect-pretrain.github.io/)   |
+| [***Detecting Pretraining Data from Large Language Models](https://arxiv.org/abs/2310.16789)                                                              |   2023   | Shi et al.              |          [[Code]](https://swj0419.github.io/detect-pretrain.github.io/)           |
+| [***Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)                                             |   2023   | Nasr et al.             |                                                                                   |
+| [***Traces of Memorisation in Large Language Models for Code](https://arxiv.org/abs/2312.11658)                                                           |   2023   | Al-Kaswan et al.        |                                                                                   |
+| [***Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration](https://arxiv.org/abs/2311.06062)        |   2023   | Fu et al.               |                                                                                   |
+
 
 Furthermore, see [[Google Training Data Extraction Challenge]](https://github.com/google-research/lm-extraction-benchmark) 
 
@@ -131,6 +137,8 @@ Image from [Google AI Blog](https://blog.research.google/2017/04/federated-learn
 | [Provably Confidential Language Modelling](https://arxiv.org/abs/2205.01863)                                                                                                          |   2022   | Zhao et al.              | [[Code]](https://github.com/XuandongZhao/CRT) |
 | [***Differentially Private Fine-tuning of Language Models](https://arxiv.org/abs/2110.06500)                                                                                          |   2022   | Yu et al.                | [[Code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models) |
 | [***Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://paperswithcode.com/paper/can-llms-keep-a-secret-testing-privacy) |   2023   | Mireshghallah et al.     | [[Code]](https://confaide.github.io/) |
+| [***Silent Guardian: Protecting Text from Malicious Exploitation by Large Language Models](https://arxiv.org/abs/2312.09669)                                                          |   2023   | Zhou et al.              |         |
+
 
 <!--- 
 
