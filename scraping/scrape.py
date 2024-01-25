@@ -8,7 +8,7 @@ def clean_soup(string):
     string = re.sub(' +', ' ',string)
     return string
 
-from_date = '2023-06-01'
+from_date = '2023-11-01'
 
 results_df = pd.DataFrame()
 
