@@ -9,7 +9,7 @@ marked with asterisks.**
 
 If you have a paper relevant to LLM privacy, [please nominate them for inclusion](https://forms.gle/jCZgXaEfb8R4CnDb7) 
 
-*Repo last updated 2/16/2024*
+*Repo last updated 2/20/2024*
 
 *Paper last updated 11/02/2023*
 
@@ -146,20 +146,20 @@ Image from [Google AI Blog](https://blog.research.google/2017/04/federated-learn
 
 Image from [Felps 2020](https://www.researchgate.net/publication/346879997_Class_Clown_Data_Redaction_in_Machine_Unlearning_at_Enterprise_Scale)
 
-| **Paper Title**                                                                                                                                                             | **Year** | **Author**       | **Code** |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|------------------| :----: |
-| [Machine Unlearning](https://arxiv.org/abs/1912.03817)                                                                                                                      |   2020   | Bourtoule et al. | [[Code]](https://github.com/cleverhans-lab/machine-unlearning) |
-| [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/abs/2310.20150)                                                                          |   2023   | Chen et al.      |  |
-| [Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238)                                                                                      |   2023   | Eldan et al.     |  |
-| [Amnesiac Machine Learning](https://arxiv.org/abs/2010.10981)                                                                                                               |   2020   | Graves et al.    |  |
-| [Adaptive Machine Unlearning](https://arxiv.org/abs/2106.04378)                                                                                                             |   2021   | Gupta et al.     | [[Code]](https://github.com/ChrisWaites/adaptive-machine-unlearning) |
+| **Paper Title**                                                                                                                                                          | **Year** | **Author**       | **Code** |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|------------------| :----: |
+| [Machine Unlearning](https://arxiv.org/abs/1912.03817)                                                                                                                   |   2020   | Bourtoule et al. | [[Code]](https://github.com/cleverhans-lab/machine-unlearning) |
+| [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/abs/2310.20150)                                                                       |   2023   | Chen et al.      |  |
+| [Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238)                                                                                   |   2023   | Eldan et al.     |  |
+| [Amnesiac Machine Learning](https://arxiv.org/abs/2010.10981)                                                                                                            |   2020   | Graves et al.    |  |
+| [Adaptive Machine Unlearning](https://arxiv.org/abs/2106.04378)                                                                                                          |   2021   | Gupta et al.     | [[Code]](https://github.com/ChrisWaites/adaptive-machine-unlearning) |
 | [Preserving Privacy Through DeMemorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models](https://aclanthology.org/2023.emnlp-main.265.pdf) |   2023   | Kassem et al.    |  |
-| [Privacy Adhering Machine Un-learning in NLP](https://arxiv.org/abs/2212.09573)                                                                                             |   2022   | Kumar et al.     |  |
-| [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/pdf/2210.01504)                                                                    |   2022   | Jang et al.      | [[Code]](https://github.com/joeljang/knowledge-unlearning) |
-| [Descent-to-Delete: Gradient-Based Methods for Machine Unlearning](https://arxiv.org/abs/2007.02923)                                                                        |   2020   | Neel et al.      |  |
-| [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)                                                                                                          |   2022   | Nguyen et al.    |  |
-| [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)                                                                                                         |   2023   | Yao et al.       | [[Code]](https://github.com/kevinyaobytedance/llm_unlearn) |
-| [***In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)                                                                        |   2023   | Pawelczyk et al. |  |
+| [Privacy Adhering Machine Un-learning in NLP](https://arxiv.org/abs/2212.09573)                                                                                          |   2022   | Kumar et al.     |  |
+| [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/pdf/2210.01504)                                                                 |   2022   | Jang et al.      | [[Code]](https://github.com/joeljang/knowledge-unlearning) |
+| [Descent-to-Delete: Gradient-Based Methods for Machine Unlearning](https://arxiv.org/abs/2007.02923)                                                                     |   2020   | Neel et al.      |  |
+| [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299)                                                                                                       |   2022   | Nguyen et al.    |  |
+| [In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)                                                                        |   2023   | Pawelczyk et al. |  |
+| [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)                                                                                                      |   2023   | Yao et al.       | [[Code]](https://github.com/kevinyaobytedance/llm_unlearn) |
 
 <!--- 
 | [If Influence Functions are the Answer, Then What is the Question?](https://arxiv.org/abs/2209.05364)   |   2022   | Bae et al.    |  |
